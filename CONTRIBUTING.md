@@ -41,7 +41,18 @@ scripts (e.g.- `run-as-root -s do-stuff.sh`) as root.
 Have a look at the existing plugins to know more about how to write plugins for
 `Fedy`.
 
+### Special thanks
 
-###
+The following people helped contribute to Fedy in some way, but do not have git
+commits. We thank you:
+
+- Alin Andrei
+- Dave Smith
+- Dave Wilks
+- Francisco Villarroel
+- Reda Lazri
+- TingPing
+- Valdur Kana
+
 [gh-fedy-issues]: https://github.com/folkswithhats/fedy/issues
 [gh-fedy-pulls]: https://github.com/folkswithhats/fedy/pulls
