@@ -2,3 +2,6 @@
 *~
 *.swp
 .DS_Store
+
+# src/www
+dist/www

@@ -3,16 +3,16 @@
 We welcome all contributions. There are a few ways to get involved:
 
 * [Create issues][gh-fedy-issues] for bugs or feature requests
-* Create [pull requests] with your awesome patches
+* Create [pull requests][gh-fedy-pulls] with your awesome patches
 * Donate for infrastructure costs and project development
 
 ## Creating issues
 
-Guidelines needed.
+_NULL_
 
 ## Development
 
-Summary needed.
+_NULL_
 
 ### Get the source code
 
@@ -22,7 +22,7 @@ $ git clone https://github.com/folkswithhats/fedy.git
 
 ### Dependencies
 
-Dependencies needed.
+_NULL_
 
 ### Writing plugins
 

@@ -24,9 +24,13 @@ Plugins are loaded from the following locations:
 
 ## Contributing
 
-We are ecstatic that you would consider contributing to any of our projects.
-Let's get See [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome all contributions. There are a few ways to get involved:
 
+* [Create issues][gh-fedy-issues] for bugs or feature requests
+* Create [pull requests][gh-fedy-pulls] with your awesome patches
+* Donate for infrastructure costs and project development
+
+For more information, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licenses
 
