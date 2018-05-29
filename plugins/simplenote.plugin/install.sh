@@ -4,7 +4,7 @@ CACHEDIR="/var/cache/fedy/simplenote";
 mkdir -p "$CACHEDIR"
 cd "$CACHEDIR"
 
-URL="https://github.com/Automattic/simplenote-electron/$(wget https://github.com/Automattic/simplenote-electron/releases -O - | grep -Po releases/download/v[0-9.]{5}/Simplenote-linux-x64.[0-9.]{5}.tar.gz | head -n 1)"
+URL="https://github.com/Automattic/simplenote-electron/$(wget https://github.com/Automattic/simplenote-electron/releases -O - | grep -Po releases/download/v[0-9.]{5}/Simplenote-linux.[0-9.]{5}.tar.gz | head -n 1)"
 FILE=${URL##*/}
 
 wget -c "$URL" -O "$FILE"
